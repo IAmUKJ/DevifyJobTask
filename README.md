@@ -7,13 +7,7 @@ A beautiful, customizable Skeleton UI Component Library built with React and `st
 ## 🚀 Live Demo
 
 > You can try it online (after deploying):  
-[https://your-site.netlify.app](https://your-site.netlify.app)
-
----
-
-## 📸 Preview
-
-![Preview](./screenshot.png)
+[https://your-site.netlify.app]  ( https://task4comp.netlify.app/ )
 
 ---
 
@@ -49,3 +43,10 @@ Clone the repo and install dependencies:
 git clone https://github.com/yourusername/react-skeleton-ui.git
 cd react-skeleton-ui
 npm install
+
+📦 Usage
+Start the development server:
+npm start
+
+Build for production:
+npm run build
