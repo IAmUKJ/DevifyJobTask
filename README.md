@@ -1,3 +1,42 @@
+# ⚛️ React Skeleton UI Library
+
+A beautiful, customizable Skeleton UI Component Library built with React and `styled-components`. This project includes various prebuilt skeleton components (cards, articles, comments, tables, and more) with support for animation types, theming (light/dark), and adjustable animation speed.
+
+---
+
+## 🚀 Live Demo
+
+> You can try it online (after deploying):  
+[https://your-site.netlify.app](https://your-site.netlify.app)
+
+---
+
+## 📸 Preview
+
+![Preview](./screenshot.png)
+
+---
+
+## ✨ Features
+
+- 🧱 Modular Skeleton Components
+- 🌙 Light / Dark Theme Toggle
+- ⚡ Animation Types: Shimmer, Pulse, Wave, etc.
+- 🎛️ Adjustable Animation Speed (via Slider or Select)
+- 📱 Responsive Design with Mobile Support
+- 💡 Accessible (ARIA-compliant)
+
+---
+
+## 🛠️ Installation
+
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/yourusername/react-skeleton-ui.git
+cd react-skeleton-ui
+npm install
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
